@@ -152,7 +152,7 @@ a.button:hover { background: #129f83; text-decoration: none; }
 
 	#Header #Top_bar { border-bottom: 1px solid rgba(255,255,255,.1); }
 	#Header #Top_bar .column { margin: 0; }
-	#Header #Top_bar #logo { background: url("../img/logo.png") no-repeat; width: 300px; height: 58px; margin: 30px 0; display: block; overflow: hidden; text-indent: -9999px; float: left; background-size:300px 58px }
+	#Header #Top_bar #logo { background: url(".\content\index-tailor3.html\images\heroimage2.JPG") no-repeat; width: 300px; height: 58px; margin: 30px 0; display: block; overflow: hidden; text-indent: -9999px; float: left; background-size:300px 58px }
 	#Header #Top_bar .addons_menu { float: right; border-top: 4px solid #1abc9c; }
 	#Header #Top_bar .addons_menu li { float: left; }
 	#Header #Top_bar .addons_menu li a { display: block; position: relative; line-height: 112px; padding: 0 13px 0 32px; color: #fff; }
@@ -177,7 +177,7 @@ a.button:hover { background: #129f83; text-decoration: none; }
 		#Header #Top_bar .addons_menu li.item_4 a .icon { background-position: -48px 0; }
 		#Header #Top_bar .addons_menu li.item_4 a:hover .icon { background-position: -48px -15px; }
 
-	#Header #Slogan {}
+
 	#Header #Slogan .column { margin: 0; padding: 60px 0; text-align: center; }
 	#Header #Slogan h2 { font-size: 50px; line-height: 50px; color: #fff; font-weight: 400; margin-bottom: 25px; }
 	#Header #Slogan h2 span { color: #cbe3fc; }
@@ -280,7 +280,7 @@ a.button:hover { background: #129f83; text-decoration: none; }
 	
 
 /* #Content */
-#Content {}
+#Content{}
 
 /* Code Hightlighter */
 code, pre, q {

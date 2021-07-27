@@ -35,9 +35,9 @@
 .rs-background-video-layer {
 	z-index: 0 !important;
 }
-@media only screen and (max-width: 767px) and (min-width: 480px) {
+@media only screen and (max-width: 767px) and (min-width: 480px){
 	#Content .gallery:not(.gallery-columns-1) .gallery-item {
-		width: 50%;
+		width: 100%;
 	}
 }
 #gallery-1 {
