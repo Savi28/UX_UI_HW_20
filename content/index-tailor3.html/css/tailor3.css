@@ -35,7 +35,7 @@
 .rs-background-video-layer {
 	z-index: 0 !important;
 }
-@media only screen and (max-width: 767px) and (min-width: 480px){
+@media only screen and (max-width: 767px) and (min-width:480px){
 	#Content .gallery:not(.gallery-columns-1) .gallery-item {
 		width: 100%;
 	}
@@ -80,7 +80,7 @@
 	margin-top:20px;
 	padding: 0;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px){
 	.equal-height-wrap .mcb-wrap {
 		height: auto !important;
 	}
@@ -154,7 +154,7 @@
 }
 @media only screen and (max-width: 767px) {
 	.section_wrapper, .container, .four.columns .widget-area {
-		max-width: 90%;
+		max-width: 100%;
 		width: calc(100% - 67px) !important;
 	}
 }
