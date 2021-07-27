@@ -77,6 +77,7 @@
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
 	height: 60px;
 	line-height: 50px;
+	margin-top:20px;
 	padding: 0;
 }
 @media only screen and (max-width: 767px) {
@@ -104,13 +105,14 @@
 .logo-no-margin #Top_bar .logo {
 	margin-left: 0 !important;
 	padding: 0 !important;
-}
+	}
 .logo-no-sticky-padding #Top_bar.is-sticky #logo img {
 	max-height: 60px !important;
+	margin-top:20px;
 }
 .logo-no-sticky-padding #Top_bar.is-sticky #logo {
 	padding: 0 !important;
-}
+	}
 .minimalist-header-no #Header {
 	min-height: 0 !important;
 }
